@@ -11,3 +11,27 @@ List of ML models that have been implemented:
 + Random Forest
 + K Means
 + Mean shift
+
+## Installation Instructions
+
++ Please install Python on your machine: https://realpython.com/installing-python/
++ Install pip if not already installed: https://pip.pypa.io/en/stable/installing/
++ Install git on your machine: https://www.atlassian.com/git/tutorials/install-git
+
++ Open terminal in your machine and clone this repository: 
+
+```git clone https://github.com/chagri/Machine-Learning-From-Scratch.git```
+
++ Once cloned enter the repository:
+
+```cd Machine-Learning-From-Scratch```
+
++ Install requirements:
+
+```pip install -r requirements.txt```
+
++ Once installed, start Jupyter notebook server, which will give you a url where you can start playing with the code:
+
+```jupyter notebook```
+
+
